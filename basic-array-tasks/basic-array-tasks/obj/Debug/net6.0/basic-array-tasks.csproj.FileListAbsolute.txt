@@ -1,0 +1,15 @@
+/Users/Igor_Goloborodko/Documents/miprojects/software-design-and-algorithms/basic-array-tasks/basic-array-tasks/bin/Debug/net6.0/basic-array-tasks
+/Users/Igor_Goloborodko/Documents/miprojects/software-design-and-algorithms/basic-array-tasks/basic-array-tasks/bin/Debug/net6.0/basic-array-tasks.deps.json
+/Users/Igor_Goloborodko/Documents/miprojects/software-design-and-algorithms/basic-array-tasks/basic-array-tasks/bin/Debug/net6.0/basic-array-tasks.runtimeconfig.json
+/Users/Igor_Goloborodko/Documents/miprojects/software-design-and-algorithms/basic-array-tasks/basic-array-tasks/bin/Debug/net6.0/basic-array-tasks.dll
+/Users/Igor_Goloborodko/Documents/miprojects/software-design-and-algorithms/basic-array-tasks/basic-array-tasks/bin/Debug/net6.0/basic-array-tasks.pdb
+/Users/Igor_Goloborodko/Documents/miprojects/software-design-and-algorithms/basic-array-tasks/basic-array-tasks/obj/Debug/net6.0/basic-array-tasks.csproj.AssemblyReference.cache
+/Users/Igor_Goloborodko/Documents/miprojects/software-design-and-algorithms/basic-array-tasks/basic-array-tasks/obj/Debug/net6.0/basic-array-tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Igor_Goloborodko/Documents/miprojects/software-design-and-algorithms/basic-array-tasks/basic-array-tasks/obj/Debug/net6.0/basic-array-tasks.AssemblyInfoInputs.cache
+/Users/Igor_Goloborodko/Documents/miprojects/software-design-and-algorithms/basic-array-tasks/basic-array-tasks/obj/Debug/net6.0/basic-array-tasks.AssemblyInfo.cs
+/Users/Igor_Goloborodko/Documents/miprojects/software-design-and-algorithms/basic-array-tasks/basic-array-tasks/obj/Debug/net6.0/basic-array-tasks.csproj.CoreCompileInputs.cache
+/Users/Igor_Goloborodko/Documents/miprojects/software-design-and-algorithms/basic-array-tasks/basic-array-tasks/obj/Debug/net6.0/basic-array-tasks.dll
+/Users/Igor_Goloborodko/Documents/miprojects/software-design-and-algorithms/basic-array-tasks/basic-array-tasks/obj/Debug/net6.0/refint/basic-array-tasks.dll
+/Users/Igor_Goloborodko/Documents/miprojects/software-design-and-algorithms/basic-array-tasks/basic-array-tasks/obj/Debug/net6.0/basic-array-tasks.pdb
+/Users/Igor_Goloborodko/Documents/miprojects/software-design-and-algorithms/basic-array-tasks/basic-array-tasks/obj/Debug/net6.0/basic-array-tasks.genruntimeconfig.cache
+/Users/Igor_Goloborodko/Documents/miprojects/software-design-and-algorithms/basic-array-tasks/basic-array-tasks/obj/Debug/net6.0/ref/basic-array-tasks.dll

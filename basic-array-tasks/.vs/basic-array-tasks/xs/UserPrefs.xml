@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{ADA3598A-BE80-41FD-97D5-F77130BF15E3}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="basic-array-tasks/Program.cs">
+    <Files>
+      <File FileName="basic-array-tasks/Program.cs" Line="31" Column="69" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="basic-array-tasks" expanded="True">
+            <Node name="basic-array-tasks" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.basic-array-tasks PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
