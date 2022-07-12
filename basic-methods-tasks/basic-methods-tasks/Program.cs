@@ -40,7 +40,7 @@ namespace Application
 
             if (isArraySorted)
             {
-                for (int i = 0; i < arr.Length - 1; i++)
+                for (int i = 0; i < arr.Length; i++)
                 {
                     arr[i] = arr[i] + i;
                 }
