@@ -8,11 +8,6 @@ namespace Application
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-
         static bool isSorted(int[] arr, SortOrder order)
         {
             if (order == SortOrder.Ascdending)
@@ -55,7 +50,7 @@ namespace Application
 
         static int MultArithmeticElements(int a, int t, int n)
         {
-            if(n == 1)
+            if (n == 1)
             {
                 return a;
             }
