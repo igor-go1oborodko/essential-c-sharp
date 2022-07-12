@@ -1,0 +1,5 @@
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/basic-methods-tasks/basic-methods-tasks/obj/Debug/net6.0/basic-methods-tasks.csproj.AssemblyReference.cache
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/basic-methods-tasks/basic-methods-tasks/obj/Debug/net6.0/basic-methods-tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/basic-methods-tasks/basic-methods-tasks/obj/Debug/net6.0/basic-methods-tasks.AssemblyInfoInputs.cache
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/basic-methods-tasks/basic-methods-tasks/obj/Debug/net6.0/basic-methods-tasks.AssemblyInfo.cs
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/basic-methods-tasks/basic-methods-tasks/obj/Debug/net6.0/basic-methods-tasks.csproj.CoreCompileInputs.cache
