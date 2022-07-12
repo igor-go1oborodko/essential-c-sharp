@@ -1,6 +1,4 @@
-﻿using System;
-
-enum SortOrder
+﻿enum SortOrder
 {
     Ascdending,
     Descengin
@@ -14,31 +12,66 @@ namespace Application
         {
             Console.WriteLine("Hello World!");
         }
-    }
 
-    static bool isSorted(int[] arr, bool order)
-    {
-        if (order)
+        static bool isSorted(int[] arr, SortOrder order)
         {
-            for (int i = 0; i < arr.Length - 1; i++)
+            if (order == SortOrder.Ascdending)
             {
-                if (arr[i] < arr[i + 1])
+                for (int i = 0; i < arr.Length - 1; i++)
                 {
-                    return false;
+                    if (arr[i] > arr[i + 1])
+                    {
+                        return false;
+                    }
                 }
             }
-        }
-        else
-        {
-            for (int i = 0; i < arr.Length - 1; i++)
+            else
             {
-                if (arr[i] > arr[i + 1])
+                for (int i = 0; i < arr.Length - 1; i++)
                 {
-                    return false;
+                    if (arr[i] < arr[i + 1])
+                    {
+                        return false;
+                    }
                 }
             }
+
+            return true;
         }
 
-        return true;
+        static void Transform(int[] arr, SortOrder order)
+        {
+            bool isArraySorted = isSorted(arr, order);
+
+            if (isArraySorted)
+            {
+                for (int i = 0; i < arr.Length - 1; i++)
+                {
+                    arr[i] = arr[i] + i;
+                }
+            }
+
+        }
+
+        static int MultArithmeticElements(int a, int t, int n)
+        {
+            if(n == 1)
+            {
+                return a;
+            }
+
+            return a * MultArithmeticElements(a + t, t, n - 1);
+        }
+
+        static double SumGeometricElements(double a, double t, double alim)
+        {
+            if (a <= alim)
+            {
+                return 0;
+            }
+
+            return a + SumGeometricElements(a * t, t, alim);
+        }
     }
+
 }
