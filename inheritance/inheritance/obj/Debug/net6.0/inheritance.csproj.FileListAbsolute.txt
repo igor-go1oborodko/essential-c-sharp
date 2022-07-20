@@ -1,0 +1,15 @@
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/inheritance/inheritance/bin/Debug/net6.0/inheritance
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/inheritance/inheritance/bin/Debug/net6.0/inheritance.deps.json
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/inheritance/inheritance/bin/Debug/net6.0/inheritance.runtimeconfig.json
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/inheritance/inheritance/bin/Debug/net6.0/inheritance.dll
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/inheritance/inheritance/bin/Debug/net6.0/inheritance.pdb
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/inheritance/inheritance/obj/Debug/net6.0/inheritance.csproj.AssemblyReference.cache
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/inheritance/inheritance/obj/Debug/net6.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/inheritance/inheritance/obj/Debug/net6.0/inheritance.AssemblyInfoInputs.cache
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/inheritance/inheritance/obj/Debug/net6.0/inheritance.AssemblyInfo.cs
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/inheritance/inheritance/obj/Debug/net6.0/inheritance.csproj.CoreCompileInputs.cache
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/inheritance/inheritance/obj/Debug/net6.0/inheritance.dll
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/inheritance/inheritance/obj/Debug/net6.0/refint/inheritance.dll
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/inheritance/inheritance/obj/Debug/net6.0/inheritance.pdb
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/inheritance/inheritance/obj/Debug/net6.0/inheritance.genruntimeconfig.cache
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/inheritance/inheritance/obj/Debug/net6.0/ref/inheritance.dll
