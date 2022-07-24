@@ -1,0 +1,15 @@
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/aggregation/aggregation/obj/Debug/net6.0/aggregation.csproj.AssemblyReference.cache
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/aggregation/aggregation/obj/Debug/net6.0/aggregation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/aggregation/aggregation/obj/Debug/net6.0/aggregation.AssemblyInfoInputs.cache
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/aggregation/aggregation/obj/Debug/net6.0/aggregation.AssemblyInfo.cs
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/aggregation/aggregation/obj/Debug/net6.0/aggregation.csproj.CoreCompileInputs.cache
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/aggregation/aggregation/bin/Debug/net6.0/aggregation
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/aggregation/aggregation/bin/Debug/net6.0/aggregation.deps.json
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/aggregation/aggregation/bin/Debug/net6.0/aggregation.runtimeconfig.json
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/aggregation/aggregation/bin/Debug/net6.0/aggregation.dll
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/aggregation/aggregation/bin/Debug/net6.0/aggregation.pdb
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/aggregation/aggregation/obj/Debug/net6.0/aggregation.dll
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/aggregation/aggregation/obj/Debug/net6.0/refint/aggregation.dll
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/aggregation/aggregation/obj/Debug/net6.0/aggregation.pdb
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/aggregation/aggregation/obj/Debug/net6.0/aggregation.genruntimeconfig.cache
+/Users/Igor_Goloborodko/Documents/miprojects/essential-sharp/aggregation/aggregation/obj/Debug/net6.0/ref/aggregation.dll
